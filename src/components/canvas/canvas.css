@@ -1,0 +1,14 @@
+canvas {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  display: block;
+}
+
+.clear-canvas-button {
+  height: 25px;
+  width: 100px;
+  border-radius: 5px;
+  margin: auto;
+  display: block;
+}
